@@ -1,24 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1484542add670a571a8154b31d35bf9e889d10de/dsc/Test1/OpenLoc is cool.md) | HandedOffSuccess | [Details](#c4a946b282c0ccb777becad09f30c4be2b9b1aab54)
+ [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/OpenLoc is cool.md) | OutofSyncHandedBackSuccess | [Details](#0e5e26f8c14790ce9de7c2c788c80a895dddb47d57)
+ [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/SonjaTest.md) | OutofSyncHandedBackSuccess | [Details](#91b5eedfa30db98ae6b92251819037478fcc297d58)
 
 ## Item Details
-##### <a name='c4a946b282c0ccb777becad09f30c4be2b9b1aab54'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/1484542add670a571a8154b31d35bf9e889d10de/dsc/Test1/OpenLoc is cool.md)
-* Status: HandedOffSuccess
+##### <a name='0e5e26f8c14790ce9de7c2c788c80a895dddb47d57'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/OpenLoc is cool.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1546bdb5ddd99308330a4b1d82a19921400974d1/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf)
-* Handoff Datetime: 2016-03-28 22:34:32
+* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1677c71f639a07cb9471e13fd0feecb3ef22a7ff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/superhigh/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf)
+* Handoff Datetime: 2016-03-30 03:16:37
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/Test1/OpenLoc is cool.md)
+* Current Handback File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
+* [Back to Top](#report-top)
+
+##### <a name='91b5eedfa30db98ae6b92251819037478fcc297d58'></a> Source: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/SonjaTest.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1677c71f639a07cb9471e13fd0feecb3ef22a7ff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/superhigh/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf)
+* Handoff Datetime: 2016-03-30 03:16:37
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/Test1/SonjaTest.md)
+* Current Handback File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
 
