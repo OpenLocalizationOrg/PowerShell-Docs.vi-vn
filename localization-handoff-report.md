@@ -6,21 +6,21 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a608f05ae19ec8ef851e49167f78ba43332813e6/dsc/archiveResource.md) | OutofSyncHandedBackSuccess | [Details](#e04310b8654bab21ba61cb46b1b110b9791b9ffd5)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d5ec439356d12304ceb6b2b3257885aa2cc461b7/dsc/partialConfigs.md) | OutofSyncHandedBackSuccess | [Details](#4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b840)
 
 ## Item Details
-##### <a name='e04310b8654bab21ba61cb46b1b110b9791b9ffd5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a608f05ae19ec8ef851e49167f78ba43332813e6/dsc/archiveResource.md)
+##### <a name='4d60df7ffda430acb6b5a48baf09cfa0dc9fc2b840'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d5ec439356d12304ceb6b2b3257885aa2cc461b7/dsc/partialConfigs.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/182955cedd94fff3fa54910960e4e8242420400b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
-* Handoff Datetime: 2016-04-13 06:21:08
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0759f0e54c337800d50438ba7cb6b2dbf86502ce/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 18:38:37
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/archiveResource.md)
-* Current Handback File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/partialConfigs.md)
+* Current Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
 * Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
