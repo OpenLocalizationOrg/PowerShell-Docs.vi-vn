@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/674701ca805c62b8264db25731035e22b3521ee9/dsc/archiveResource.md) | OutofSyncHandedBackSuccess | [Details](#daf17d72ba959743dbd72212e2172f5a60ce5ce55)
+ [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b0a0bdf93689f172c7897133c18e799d7301fb4d/dsc/archiveResource.md) | OutofSyncHandedBackSuccess | [Details](#39649aca9e61d188fb9ad855e4d1b8b63ee6491f5)
 
 ## Item Details
-##### <a name='daf17d72ba959743dbd72212e2172f5a60ce5ce55'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/674701ca805c62b8264db25731035e22b3521ee9/dsc/archiveResource.md)
+##### <a name='39649aca9e61d188fb9ad855e4d1b8b63ee6491f5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b0a0bdf93689f172c7897133c18e799d7301fb4d/dsc/archiveResource.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a152a98c022709fb51229a47045451dfeb73f398/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
-* Handoff Datetime: 2016-04-13 03:31:35
+* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0e623306bd0fccc90255753fe94a85790c1a82f2/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 05:41:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
