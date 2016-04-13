@@ -3,14 +3,14 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 66
+ Total Files | 65
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 2
-[ In Sync Handback Files ](#insync-handback-success-list)| 55
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 4
+[ In Sync Handback Files ](#insync-handback-success-list)| 51
 [ Ignored Files ](#ignored-list)| 8
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -18,7 +18,8 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/Test1/SonjaFileToo.md) | HandedOffSuccess | [Details](#6c6311c3d6bdafefa766356266b6aa934c84f4c955)
+ [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/Test1/SonjaFileToo.md) | HandedOffSuccess | [Details](#6c6311c3d6bdafefa766356266b6aa934c84f4c954)
+ [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/testmove2/overview-test2.md) | HandedOffSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a655)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -29,15 +30,15 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/OpenLoc is cool.md) | OutofSyncHandedBackSuccess | [Details](#0e5e26f8c14790ce9de7c2c788c80a895dddb47d54)
- [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/SonjaTest.md) | OutofSyncHandedBackSuccess | [Details](#91b5eedfa30db98ae6b92251819037478fcc297d56)
+ [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/archiveResource.md) | OutofSyncHandedBackSuccess | [Details](#ffe9d4d734e51f68031e6c7df6068d8dd71e61cb5)
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#9ea62ec24425a14aae82050e6098e5fe9aef05506)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/partialConfigs.md) | OutofSyncHandedBackSuccess | [Details](#127e4f2cb6925f771c7f8695b47d421a7ddad15640)
+ [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc is cool.md) | OutofSyncHandedBackSuccess | [Details](#69d23bf4e3d757777db90569dc8de830aeaf15d953)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [CONTRIBUTING.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/CONTRIBUTING.md) | InSyncHandedBackSuccess | [Details](#c3b8854dbecd4ab03e46c51a23ac00461bdd70144)
- [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/archiveResource.md) | InSyncHandedBackSuccess | [Details](#81efeb79a70df604ef8c126c0ebd17b4f4711a445)
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResource.md) | InSyncHandedBackSuccess | [Details](#fde661d2dc3c7c099c34134f4e665ba02cc3ceb96)
  [dsc\authoringResourceClass.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResourceClass.md) | InSyncHandedBackSuccess | [Details](#ebda397e0970e90e3fcf33218565919bd7e6eb407)
  [dsc\authoringResourceComposite.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResourceComposite.md) | InSyncHandedBackSuccess | [Details](#4af3a1c0d7491552cfa1d22daa6718803e7626988)
  [dsc\authoringResourceMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResourceMOF.md) | InSyncHandedBackSuccess | [Details](#f64cbea29a1e9998b8ade46d69c1ef1c584bd6339)
@@ -69,42 +70,40 @@
  [dsc\logResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/logResource.md) | InSyncHandedBackSuccess | [Details](#0f4922e1df8725aad839211dbe0dfc532692f60636)
  [dsc\metaConfig.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/metaConfig.md) | InSyncHandedBackSuccess | [Details](#d7b3908ae670a7bcc976f2675834316862a2580237)
  [dsc\metaConfig4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/metaConfig4.md) | InSyncHandedBackSuccess | [Details](#ef2664b6dd61bd55898971adf7e4a57f92be88cc38)
- [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/overview.md) | InSyncHandedBackSuccess | [Details](#7f5f99f0f0befde13272221e376006dffbddb99439)
- [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/packageResource.md) | InSyncHandedBackSuccess | [Details](#9c9f1da0b560c44c9760583c4193bdf4eaee09f740)
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/partialConfigs.md) | InSyncHandedBackSuccess | [Details](#3f1843e8a1335617c562084ce69fc82ae7c2c69441)
- [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClient.md) | InSyncHandedBackSuccess | [Details](#4cb0a0836e56ca31f9e101be81e1427493cbbcd542)
- [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID.md) | InSyncHandedBackSuccess | [Details](#54bb78b313c4f0c721862910496c5154ed5444ef43)
- [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID4.md) | InSyncHandedBackSuccess | [Details](#3714670bd9ded38e54c1f2e3f64658950c6d3f4044)
- [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigNames.md) | InSyncHandedBackSuccess | [Details](#42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d9545)
- [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullServer.md) | InSyncHandedBackSuccess | [Details](#f775047bb73ea56ac124df5e1b0c2baa736c952646)
- [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/queryServerNodes.md) | InSyncHandedBackSuccess | [Details](#fc1456c57ade6862957e54ee53f18f189785848a47)
- [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/registryResource.md) | InSyncHandedBackSuccess | [Details](#44f3bb3bec83fd779c83d0326d55c88ead77cfba48)
- [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/resources.md) | InSyncHandedBackSuccess | [Details](#df54abe3d92ffaff2998e9fb3157b42cf83143c249)
- [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/scriptResource.md) | InSyncHandedBackSuccess | [Details](#b081337b68091f95498d23fecbc64701866b2cec50)
- [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureMOF.md) | InSyncHandedBackSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e51)
- [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureServer.md) | InSyncHandedBackSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5652)
- [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/serviceResource.md) | InSyncHandedBackSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354953)
- [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/TOC.md) | InSyncHandedBackSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e657)
- [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/troubleshooting.md) | InSyncHandedBackSuccess | [Details](#2886767875ee6a9882ca050e34787cfa1fb6410958)
- [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/userResource.md) | InSyncHandedBackSuccess | [Details](#e4b793025b00cb3137eddc0e7ec437f03abdf3c459)
- [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsfeatureResource.md) | InSyncHandedBackSuccess | [Details](#1484f03d1d80b73e3131095e3363b246929a0a3560)
- [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsProcessResource.md) | InSyncHandedBackSuccess | [Details](#47c387c525a58a88f18e61920736a6e0e7f2098d61)
- [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/README.md) | InSyncHandedBackSuccess | [Details](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe63)
+ [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/packageResource.md) | InSyncHandedBackSuccess | [Details](#9c9f1da0b560c44c9760583c4193bdf4eaee09f739)
+ [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClient.md) | InSyncHandedBackSuccess | [Details](#4cb0a0836e56ca31f9e101be81e1427493cbbcd541)
+ [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID.md) | InSyncHandedBackSuccess | [Details](#54bb78b313c4f0c721862910496c5154ed5444ef42)
+ [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID4.md) | InSyncHandedBackSuccess | [Details](#3714670bd9ded38e54c1f2e3f64658950c6d3f4043)
+ [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigNames.md) | InSyncHandedBackSuccess | [Details](#42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d9544)
+ [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullServer.md) | InSyncHandedBackSuccess | [Details](#f775047bb73ea56ac124df5e1b0c2baa736c952645)
+ [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/queryServerNodes.md) | InSyncHandedBackSuccess | [Details](#fc1456c57ade6862957e54ee53f18f189785848a46)
+ [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/registryResource.md) | InSyncHandedBackSuccess | [Details](#44f3bb3bec83fd779c83d0326d55c88ead77cfba47)
+ [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/resources.md) | InSyncHandedBackSuccess | [Details](#df54abe3d92ffaff2998e9fb3157b42cf83143c248)
+ [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/scriptResource.md) | InSyncHandedBackSuccess | [Details](#b081337b68091f95498d23fecbc64701866b2cec49)
+ [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureMOF.md) | InSyncHandedBackSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e50)
+ [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureServer.md) | InSyncHandedBackSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5651)
+ [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/serviceResource.md) | InSyncHandedBackSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354952)
+ [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/TOC.md) | InSyncHandedBackSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e656)
+ [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/troubleshooting.md) | InSyncHandedBackSuccess | [Details](#2886767875ee6a9882ca050e34787cfa1fb6410957)
+ [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/userResource.md) | InSyncHandedBackSuccess | [Details](#e4b793025b00cb3137eddc0e7ec437f03abdf3c458)
+ [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsfeatureResource.md) | InSyncHandedBackSuccess | [Details](#1484f03d1d80b73e3131095e3363b246929a0a3559)
+ [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsProcessResource.md) | InSyncHandedBackSuccess | [Details](#47c387c525a58a88f18e61920736a6e0e7f2098d60)
+ [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/README.md) | InSyncHandedBackSuccess | [Details](#8c1262cca40e2a1f72254cf349d163ee2a4bcebe62)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.gitignore) | Ignored | [Details](#4a6be79ee23699c14dbdae55a52db3b096d2cdcc0)
- [.localization-config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.localization-config) | Ignored | [Details](#d1d78e527b4ed5eb094a3abc2f6b85f4dbb496fc1)
- [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c2)
- [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.openpublishing.publish.config.json) | Ignored | [Details](#8d82385b0d2a38e30f607bf841c712f023ee8d853)
- [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/docfx.json) | Ignored | [Details](#c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215)
- [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3162)
- [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f964)
- [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35865)
+ [.gitignore](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.gitignore) | Ignored | [Details](#4a6be79ee23699c14dbdae55a52db3b096d2cdcc0)
+ [.localization-config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.localization-config) | Ignored | [Details](#08bd1e494ddd80db16e3c6bb50f2aca05bd953bd1)
+ [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c2)
+ [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.publish.config.json) | Ignored | [Details](#8d82385b0d2a38e30f607bf841c712f023ee8d853)
+ [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/docfx.json) | Ignored | [Details](#c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215)
+ [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/packages.config) | Ignored | [Details](#27554498f63fbe896c2dad68b61f4dde8478ba3161)
+ [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f963)
+ [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35864)
 
 ## Item Details
-##### <a name='4a6be79ee23699c14dbdae55a52db3b096d2cdcc0'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.gitignore)
+##### <a name='4a6be79ee23699c14dbdae55a52db3b096d2cdcc0'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -116,7 +115,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d1d78e527b4ed5eb094a3abc2f6b85f4dbb496fc1'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.localization-config)
+##### <a name='08bd1e494ddd80db16e3c6bb50f2aca05bd953bd1'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -128,7 +127,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ea7542a1cc208464193da9503160bbb41d54856c2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.openpublishing.build.mdproj)
+##### <a name='ea7542a1cc208464193da9503160bbb41d54856c2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.build.mdproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -140,7 +139,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8d82385b0d2a38e30f607bf841c712f023ee8d853'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/.openpublishing.publish.config.json)
+##### <a name='8d82385b0d2a38e30f607bf841c712f023ee8d853'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -164,28 +163,34 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='81efeb79a70df604ef8c126c0ebd17b4f4711a445'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/archiveResource.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/archiveResource.md)
-* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
-* Handoff Datetime: 2016-03-25 09:32:47
+##### <a name='ffe9d4d734e51f68031e6c7df6068d8dd71e61cb5'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/archiveResource.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c03075077197672a9d500878ac8817ca31a9e4ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 01:01:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
-* Handback Datetime: 2016-03-29 00:14:57
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/archiveResource.md)
+* Current Handback File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='fde661d2dc3c7c099c34134f4e665ba02cc3ceb96'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResource.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/authoringResource.md)
-* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
-* Handoff Datetime: 2016-03-25 09:32:47
+##### <a name='9ea62ec24425a14aae82050e6098e5fe9aef05506'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/authoringResource.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c03075077197672a9d500878ac8817ca31a9e4ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 01:01:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
-* Handback Datetime: 2016-03-29 00:14:57
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/authoringResource.md)
+* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
 ##### <a name='ebda397e0970e90e3fcf33218565919bd7e6eb407'></a> Source: [dsc\authoringResourceClass.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/authoringResourceClass.md)
@@ -284,7 +289,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215'></a> Source: [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/docfx.json)
+##### <a name='c0e59ca822ca5bcf841e3a5a8f2f775cc5f8fc1215'></a> Source: [dsc\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -380,7 +385,7 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [86d829b1fcdd41e648ed0594eaf337b3726c143c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/86d829b1fcdd41e648ed0594eaf337b3726c143c.png)
 * Handback Datetime: 2016-03-29 00:14:57
-* Dependency From: dsc\enactingConfigurations.md
+* Dependency From: dsc\enactingConfigurations.md, dsc\partialConfigs.md
 * [Back to Top](#report-top)
 
 ##### <a name='d3008e3fe7da4c118c693d2b34a0b329780f8d8623'></a> Source: [dsc\images\Push.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/images/Push.png)
@@ -576,19 +581,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='7f5f99f0f0befde13272221e376006dffbddb99439'></a> Source: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/overview.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/overview.md)
-* Handoff File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.vi-vn.xlf)
-* Handoff Datetime: 2016-03-25 09:32:47
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.vi-vn.xlf)
-* Handback Datetime: 2016-03-29 00:14:57
-* [Back to Top](#report-top)
-
-##### <a name='9c9f1da0b560c44c9760583c4193bdf4eaee09f740'></a> Source: [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/packageResource.md)
+##### <a name='9c9f1da0b560c44c9760583c4193bdf4eaee09f739'></a> Source: [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/packageResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/packageResource.md)
 * Handoff File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.vi-vn.xlf)
@@ -600,19 +593,22 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='3f1843e8a1335617c562084ce69fc82ae7c2c69441'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/partialConfigs.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/partialConfigs.md)
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
-* Handoff Datetime: 2016-03-25 09:32:47
+##### <a name='127e4f2cb6925f771c7f8695b47d421a7ddad15640'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/partialConfigs.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c03075077197672a9d500878ac8817ca31a9e4ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 01:01:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
-* Handback Datetime: 2016-03-29 00:14:57
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/partialConfigs.md)
+* Current Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='4cb0a0836e56ca31f9e101be81e1427493cbbcd542'></a> Source: [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClient.md)
+##### <a name='4cb0a0836e56ca31f9e101be81e1427493cbbcd541'></a> Source: [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClient.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/pullClient.md)
 * Handoff File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.vi-vn.xlf)
@@ -624,7 +620,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='54bb78b313c4f0c721862910496c5154ed5444ef43'></a> Source: [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID.md)
+##### <a name='54bb78b313c4f0c721862910496c5154ed5444ef42'></a> Source: [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/pullClientConfigID.md)
 * Handoff File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.vi-vn.xlf)
@@ -636,7 +632,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='3714670bd9ded38e54c1f2e3f64658950c6d3f4044'></a> Source: [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID4.md)
+##### <a name='3714670bd9ded38e54c1f2e3f64658950c6d3f4043'></a> Source: [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigID4.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/pullClientConfigID4.md)
 * Handoff File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.vi-vn.xlf)
@@ -648,7 +644,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d9545'></a> Source: [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigNames.md)
+##### <a name='42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d9544'></a> Source: [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullClientConfigNames.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/pullClientConfigNames.md)
 * Handoff File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.vi-vn.xlf)
@@ -660,7 +656,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='f775047bb73ea56ac124df5e1b0c2baa736c952646'></a> Source: [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullServer.md)
+##### <a name='f775047bb73ea56ac124df5e1b0c2baa736c952645'></a> Source: [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/pullServer.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/pullServer.md)
 * Handoff File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.vi-vn.xlf)
@@ -672,7 +668,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='fc1456c57ade6862957e54ee53f18f189785848a47'></a> Source: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/queryServerNodes.md)
+##### <a name='fc1456c57ade6862957e54ee53f18f189785848a46'></a> Source: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/queryServerNodes.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/queryServerNodes.md)
 * Handoff File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.vi-vn.xlf)
@@ -684,7 +680,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='44f3bb3bec83fd779c83d0326d55c88ead77cfba48'></a> Source: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/registryResource.md)
+##### <a name='44f3bb3bec83fd779c83d0326d55c88ead77cfba47'></a> Source: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/registryResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/registryResource.md)
 * Handoff File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.vi-vn.xlf)
@@ -696,7 +692,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='df54abe3d92ffaff2998e9fb3157b42cf83143c249'></a> Source: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/resources.md)
+##### <a name='df54abe3d92ffaff2998e9fb3157b42cf83143c248'></a> Source: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/resources.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/resources.md)
 * Handoff File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.vi-vn.xlf)
@@ -708,7 +704,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='b081337b68091f95498d23fecbc64701866b2cec50'></a> Source: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/scriptResource.md)
+##### <a name='b081337b68091f95498d23fecbc64701866b2cec49'></a> Source: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/scriptResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/scriptResource.md)
 * Handoff File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.vi-vn.xlf)
@@ -720,7 +716,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='14cf6c2005eb756200e7fd065b61e4120d84c02e51'></a> Source: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureMOF.md)
+##### <a name='14cf6c2005eb756200e7fd065b61e4120d84c02e50'></a> Source: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureMOF.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/secureMOF.md)
 * Handoff File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.vi-vn.xlf)
@@ -732,7 +728,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='2290a81a8dbc82b7881d2b6006d70a90578f9a5652'></a> Source: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureServer.md)
+##### <a name='2290a81a8dbc82b7881d2b6006d70a90578f9a5651'></a> Source: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/secureServer.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/secureServer.md)
 * Handoff File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.vi-vn.xlf)
@@ -744,7 +740,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='ca609ad6055d8053e43e482ed2e57b3db41c354953'></a> Source: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/serviceResource.md)
+##### <a name='ca609ad6055d8053e43e482ed2e57b3db41c354952'></a> Source: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/serviceResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/serviceResource.md)
 * Handoff File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.vi-vn.xlf)
@@ -756,11 +752,11 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='0e5e26f8c14790ce9de7c2c788c80a895dddb47d54'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/OpenLoc is cool.md)
+##### <a name='69d23bf4e3d757777db90569dc8de830aeaf15d953'></a> Source: [dsc\Test1\OpenLoc is cool.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/Test1/OpenLoc is cool.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7e388e7e15f902b5f618c09203a7c180e4a99b8f/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf)
-* Handoff Datetime: 2016-03-31 00:23:54
+* Handoff File: [OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c03075077197672a9d500878ac8817ca31a9e4ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 01:01:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -771,7 +767,7 @@
 * Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='6c6311c3d6bdafefa766356266b6aa934c84f4c955'></a> Source: [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/Test1/SonjaFileToo.md)
+##### <a name='6c6311c3d6bdafefa766356266b6aa934c84f4c954'></a> Source: [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/dsc/Test1/SonjaFileToo.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0cee9162fa6f4321d43c962075cb17ed3825b783/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.vi-vn.xlf)
@@ -783,22 +779,19 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='91b5eedfa30db98ae6b92251819037478fcc297d56'></a> Source: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/051078ab421b67a7c45e5bb67cab101ce131ac85/dsc/Test1/SonjaTest.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='d4e485c4e2461db1b7cca67d12d1a7dd331996a655'></a> Source: [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/dsc/testmove2/overview-test2.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7e388e7e15f902b5f618c09203a7c180e4a99b8f/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf)
-* Handoff Datetime: 2016-03-31 00:23:54
+* Handoff File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c03075077197672a9d500878ac8817ca31a9e4ca/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 01:01:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/Test1/SonjaTest.md)
-* Current Handback File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.vi-vn.xlf)
-* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e657'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/TOC.md)
+##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e656'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/TOC.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/TOC.md)
 * Handoff File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.vi-vn.xlf)
@@ -810,7 +803,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410958'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/troubleshooting.md)
+##### <a name='2886767875ee6a9882ca050e34787cfa1fb6410957'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/troubleshooting.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/troubleshooting.md)
 * Handoff File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.vi-vn.xlf)
@@ -822,7 +815,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c459'></a> Source: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/userResource.md)
+##### <a name='e4b793025b00cb3137eddc0e7ec437f03abdf3c458'></a> Source: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/userResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/userResource.md)
 * Handoff File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.vi-vn.xlf)
@@ -834,7 +827,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3560'></a> Source: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsfeatureResource.md)
+##### <a name='1484f03d1d80b73e3131095e3363b246929a0a3559'></a> Source: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsfeatureResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/windowsfeatureResource.md)
 * Handoff File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.vi-vn.xlf)
@@ -846,7 +839,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d61'></a> Source: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsProcessResource.md)
+##### <a name='47c387c525a58a88f18e61920736a6e0e7f2098d60'></a> Source: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/dsc/windowsProcessResource.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/windowsProcessResource.md)
 * Handoff File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.vi-vn.xlf)
@@ -858,7 +851,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='27554498f63fbe896c2dad68b61f4dde8478ba3162'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/packages.config)
+##### <a name='27554498f63fbe896c2dad68b61f4dde8478ba3161'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -870,7 +863,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe63'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/README.md)
+##### <a name='8c1262cca40e2a1f72254cf349d163ee2a4bcebe62'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/32ee770772ef44dba7bcb2ae6952652156617803/README.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/README.md)
 * Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/cdc4c6f7ade65c698327e3d3ef19e3c12e9e54b0/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.vi-vn.xlf)
@@ -882,7 +875,7 @@
 * Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
-##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f964'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/Tools/NuGet/Nuget.Config)
+##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f963'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -894,7 +887,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35865'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6f3a78ffa2f31cb639f0a5c20ab0ed15c6d4ccac/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35864'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/8d8b436044add5096485753f0776082cd56d2d04/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
