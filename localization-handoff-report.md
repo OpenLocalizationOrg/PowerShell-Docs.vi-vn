@@ -6,19 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md) | HandedOffSuccess | [Details](#a659f12ae049937714da659dd95d40ea9774222c54)
+ [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/674701ca805c62b8264db25731035e22b3521ee9/dsc/archiveResource.md) | OutofSyncHandedBackSuccess | [Details](#daf17d72ba959743dbd72212e2172f5a60ce5ce55)
 
 ## Item Details
-##### <a name='a659f12ae049937714da659dd95d40ea9774222c54'></a> Source: [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md)
-* Status: HandedOffSuccess
+##### <a name='daf17d72ba959743dbd72212e2172f5a60ce5ce55'></a> Source: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/674701ca805c62b8264db25731035e22b3521ee9/dsc/archiveResource.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/90ab678f62e0e87792979a9f0393b97a2e03d0a4/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.vi-vn.xlf)
-* Handoff Datetime: 2016-04-13 01:21:16
+* Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a152a98c022709fb51229a47045451dfeb73f398/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Handoff Datetime: 2016-04-13 03:31:35
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [dsc\archiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/archiveResource.md)
+* Current Handback File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.vi-vn.xlf)
+* Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
 
