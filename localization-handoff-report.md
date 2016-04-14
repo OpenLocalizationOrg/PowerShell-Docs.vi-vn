@@ -1,40 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | HandedOffSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a923)
- [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/partialConfigs.md) | OutofSyncHandedBackSuccess | [Details](#da410bf1b10ae360fda5734aecb19f33331aea4741)
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7f58f06eb539099edff90e2f29ed9f8adb95de7/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#cc492892c7576b015d9853eb28e0d6d2abc282aa6)
 
 ## Item Details
-##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a923'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/eff3b7cf29d5e33ab47291315c1325bcd5834d93/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
-* Handoff Datetime: 2016-04-13 18:48:27
-* Handoff Reason: IsDependency
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: dsc\partialConfigs.md
-* [Back to Top](#report-top)
-
-##### <a name='da410bf1b10ae360fda5734aecb19f33331aea4741'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/partialConfigs.md)
+##### <a name='cc492892c7576b015d9853eb28e0d6d2abc282aa6'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7f58f06eb539099edff90e2f29ed9f8adb95de7/dsc/authoringResource.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eff3b7cf29d5e33ab47291315c1325bcd5834d93/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
-* Handoff Datetime: 2016-04-13 18:48:27
+* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ab32c131646de6e0f8e4dcd2aee888aa80831a42/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
+* Handoff Datetime: 2016-04-14 22:16:35
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/partialConfigs.md)
-* Current Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.vi-vn.xlf)
+* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/authoringResource.md)
+* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
 * Current Handback Datetime: 2016-03-29 00:14:57
 * [Back to Top](#report-top)
 
