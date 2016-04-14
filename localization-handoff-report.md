@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7f58f06eb539099edff90e2f29ed9f8adb95de7/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#cc492892c7576b015d9853eb28e0d6d2abc282aa6)
 
 ## Item Details
-##### <a name='cc492892c7576b015d9853eb28e0d6d2abc282aa6'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7f58f06eb539099edff90e2f29ed9f8adb95de7/dsc/authoringResource.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ab32c131646de6e0f8e4dcd2aee888aa80831a42/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
-* Handoff Datetime: 2016-04-14 22:16:35
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.vi-vn/blob/ac4c7a0ddd7b9adf97ef6f72370fed3a3ede6bbb/dsc/authoringResource.md)
-* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/0381c30da4aa481e4fabb22c9c37893761d27a33/ol-handback/OpenLocalizationOrg/PowerShell-Docs.vi-vn/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.vi-vn.xlf)
-* Current Handback Datetime: 2016-03-29 00:14:57
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
